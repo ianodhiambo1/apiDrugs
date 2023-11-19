@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "tailwind": "^4.0.0"
+  }
+}
